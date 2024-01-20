@@ -18,4 +18,5 @@ func TestCreateAccount(t *testing.T) {
 	if err != nil {
 		fmt.Println("Error while creating a new account : %s", err)
 	}
+
 }
